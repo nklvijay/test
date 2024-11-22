@@ -8,4 +8,5 @@ print("Type of Mark1 ",type(mark1))
 print("Type of Mark1 ",type(mark2))
 print('test')
 print('our')
-print(123)
+
+
